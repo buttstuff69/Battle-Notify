@@ -11,6 +11,12 @@ Original mod by wuaw (https://github.com/wuaw/battle-notify).
 
 The `config` folder has all the files necessary to customize the events that are shown.
 
+## Messages in Center of Screen
+
+This can only be accomplished using a modded S1UImessage.gpk.
+Heres a link for mine: https://mega.nz/file/iS5xXaSK#3DFLiDWINq-pAn9DJdLBud0R4fwo9BTS3Ww-va14tco
+Place it in `Client\S1Game\CookedPC\Art_Data\Packages\_S1UI` Create the `_S1UI` folder and it must have the `_` in front.
+
 ## Styling options
 
 The file `./config/common_styling.js` contains the default styling options that will be prepended to each event.
