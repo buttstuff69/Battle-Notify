@@ -1,7 +1,7 @@
 {
     "files": {
         "README.md": "2bbcd2e028df5f01b5a0c1320918c27027ed529e0ea1463bdad8cdbc00d7489d",
-        "config/archer.js": {"overwrite": false, "hash": "3a5910661bd79b2a6b41d83a225b9d8556bdaa62d1991417e199efb7121b1276"},
+        "config/archer.js": {"overwrite": false, "hash":"3a5910661bd79b2a6b41d83a225b9d8556bdaa62d1991417e199efb7121b1276"},
         "config/berserker.js": {"overwrite": false, "hash":"b7e8247d35618db74a8698ff96c490c05ef77a5f326eb822c72a6fc0e807371f"},
         "config/brawler.js": {"overwrite": false, "hash":"688727055c4140b14ff757e36bfcf0f027dbb85d866371d39c10f705268e6f5a"},
         "config/common.js": {"overwrite": false, "hash":"8ee3d9d9f96509ecaa695534fe53d96caeabfb7b65176ff7ba864c28bb25db3b"},
