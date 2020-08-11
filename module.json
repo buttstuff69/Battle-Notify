@@ -4,7 +4,7 @@
     "author": "Caali / wuaw",
     "description": "Shows text notifications on configurable in-game events",
     "version": "1.0",
-    "servers": ["https://raw.githubusercontent.com/buttstuff69/Battle-Notify/master/"],
+    "servers": ["https://raw.githubusercontent.com/buttstuff69/Battle-Notify-Test/master/"],
     "options": {
         "niceName": "BattleNotify"
     }
