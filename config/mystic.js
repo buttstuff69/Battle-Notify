@@ -65,4 +65,38 @@ module.exports = [
         skills: 270100, 
         message: '{icon} reset!'
     },
+	
+	// Vergos Buff
+   {
+        type: 'Added',
+        target: 'MyBoss',
+        abnormalities: 950514,
+        message: '{icon} {stacks}',
+    },
+	
+    // Vergos Buff
+   {
+        type: 'AddedOrRefreshed',
+        target: 'MyBoss',
+        abnormalities: 950514,
+        message: '{icon} {stacks}',
+        required_stacks: 1
+    },
+    
+    // Vergos Defense Up
+   {
+        type: 'Added',
+        target: 'MyBoss',
+        abnormalities: 950513,
+        message: '{icon} Defense Up',
+    },
+	
+	// Vergos Defense Up
+   {
+        type: 'AddedorRefreshed',
+        target: 'MyBoss',
+        abnormalities: 950513,
+        message: '{icon} Defense Up',
+		required_stacks: 1
+    },
 ]

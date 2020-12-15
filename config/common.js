@@ -87,7 +87,7 @@ module.exports = [
 	{
 		type: 'MissingDuringCombat',
 		target: 'Self',
-		abnormalities: [4030, 4031, 4020, 4021, 4040],
+		abnormalities: [4030, 4031, 4020, 4021, 4040, 4042],
 		message: 'Missing {icon}',
 		rewarn_timeout: 15
 	},
