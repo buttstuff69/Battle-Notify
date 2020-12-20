@@ -4,7 +4,7 @@
         "config/archer.js": {"overwrite": false, "hash":"3a5910661bd79b2a6b41d83a225b9d8556bdaa62d1991417e199efb7121b1276"},
         "config/berserker.js": {"overwrite": false, "hash":"b7e8247d35618db74a8698ff96c490c05ef77a5f326eb822c72a6fc0e807371f"},
         "config/brawler.js": {"overwrite": false, "hash":"ec20f652eebf533e2a030082ad593aa0d56469b59e8dcd9728da2d5c2f799b9a"},
-        "config/common.js": {"overwrite": false, "hash":"4e4c0499ee5505935f5380387f4c08ae1ba71b62a093d984a1e557caf0bbdd5b"},
+        "config/common.js": {"overwrite": false, "hash":"eeac4ad3d789c535cfe5e02d520d943ab4a029fdb7bc49eab2f4dac48cec7215"},
         "config/common_styling.js": {"overwrite": false, "hash":"32e46b7e9ef6066b1762447055632756e41ddc7a4b64562378e01ab2f98adbc0"},
         "config/gunner.js": {"overwrite": false, "hash":"6f8f0e5e3b56db90d89e95168c5749073b411ba209a77b2b452f33aba07f2ab6"},
         "config/lancer.js": {"overwrite": false, "hash":"f0fd995e8f857e2ddd8f6d23b9f4d7c6f0f922627665d2b647ca3595d2a2f9a9"},
